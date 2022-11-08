@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718835492851",
+    "project_id": "pinehouse-app",
+    "storage_bucket": "pinehouse-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718835492851:android:9edad0ccf4e3d09fc01486",
+        "android_client_info": {
+          "package_name": "com.example.pinehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718835492851-1vokpfnmfoughibm31uioghin7orbiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVfYx6ksgKfS4YZA746w9E5eMeeVWk1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718835492851-1vokpfnmfoughibm31uioghin7orbiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
